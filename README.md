@@ -1,6 +1,6 @@
 ## Leon Cross
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+An accomplished Project Manager with seven years of experience spanning projects involving grass-roots organisations to multi-million pound programmes. An ambitious and versatile individual with established credentials in complex stakeholder management, project delivery and evaluation. Delivers flexible and efficient solutions, and lean processes. 
 
 ## Skills
 
@@ -34,15 +34,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Nottingham (start_date to end_date)
+#### University of Nottingham (Sep '08 – Jul '11)
 - BA (Hons) Sociology - 2:1
 
-#### other qualifications
-Prince2 Foundation; Preparing to Teach in the Lifelong Learning Sector (PTLLS); Salesforce Administration for New Admins; Project Quality Assurance; Budgeting; Influencing Skills, Assertiveness and Negotiation; Strategic Planning; Motivational Leadership; Managing Change; Risk Management; Monitoring, Evaluation and Impact Assessment
+#### Other qualifications:
+Prince2 Foundation; Preparing to Teach in the Lifelong Learning Sector (PTLLS); Salesforce Administration for New Admins; Project Quality Assurance; Budgeting; Influencing and Motivating, Assertiveness and Negotiation; Strategic Planning; Managing Change; Risk Management; Project Monitoring Evaluation and Impact Assessment
 
 ## Experience
 
-**ARTICLE 19** (Sept ‘17 – Oct ‘18)    
+**ARTICLE 19** (Sep '08 – Jul '11)(Sept ‘17 – Oct ‘18)    
 *Systems and Project Manager* 
 
 Led the development, delivery and organisational rollout of ARTICLE 19's Impact Monitoring System (AIMS), a suite of performance management software which included Project Management, Strategy Management and People and Performance Management. This included the implementation of all systems and global rollout across 14 regional offices; development of both processes for system usage and staff on-boarding; and significant data insight, analysis and reporting straight to board level on system adoption, usage, and performance of the organisation. Alongside this, supported the Project Management Office on donor contract management with various institutional donors (Inc. DFID, EC, SIDA, OSF, and USDOS among others) and managed the GDPR working group.
@@ -76,7 +76,3 @@ Responsible for designing and establishing a community engagement programme. Dev
 *Project Manager*  
 
 Led the management and coordination of projects undertaken by RSI in Kenya and England. Managed the transportation of a shipping container from the UK to rural parts of Kenya so as to be transformed into a working medical clinic. Partnership working with Kenyan agencies; Kenya Port Authority, customs, health sections and other departments. Secured contracts with the Kenyan Government for Medical equipment and supplies. Worked remotely managing voluntary and paid staff, and in-country coordination 
-
-
-
-
