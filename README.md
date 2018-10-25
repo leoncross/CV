@@ -44,7 +44,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**ARTICLE 19** (Sept ‘17 – Oct ‘18)    
+*Systems and Project Manager*  
+**Macmillan Cancer Support** (Nov ’16 – Sept ‘17)   
+*Quality Monitoring Project Manager*  
+**Diabetes UK** (Jun ’16 – Oct ‘16)    
+*Project Manager*  
+**Youth United Foundation** (Mar '14 – May ‘16)   
+*Project Manager*  
+**St John Ambulance** (Feb '13 – Mar '14)    
+*Youth Development Officer*  
+**RS International** (Jul '11 – Jan '13	)   
+*Project Manager*  
+
+
+
+
