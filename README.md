@@ -48,7 +48,7 @@ Prince2 Foundation; Preparing to Teach in the Lifelong Learning Sector (PTLLS); 
 ### <a name="Experience">Experience</a>
 
 **ARTICLE 19** (Sep '08 – Jul '11)(Sept ‘17 – Oct ‘18)    
-*Systems and Project Manager* 
+*Systems and Project Manager*  
 Led the development, delivery and organisational rollout of ARTICLE 19's Impact Monitoring System (AIMS), a suite of performance management software which included Project Management, Strategy Management and People and Performance Management. This included the implementation of all systems and global rollout across 14 regional offices; development of both processes for system usage and staff on-boarding; significant data analysis and reporting straight to board level on adoption, usage, and performance. Managed the GDPR working group.
 
 **Macmillan Cancer Support** (Nov ’16 – Sept ‘17)   
