@@ -1,6 +1,6 @@
 ## Leon Cross
 
-Recent graduate of Makers (add more here) - backed by seven years of Project MAnagement experience spanning projects involving grass-roots organisations to multi-million pound programmes. 
+Recent graduate of Makers (add more here) - backed by seven years of Project Management experience spanning both grass-root small scale programmes to overseeing multi-million pound programmes. 
 
 
 ## Skills
@@ -13,23 +13,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill (Coding related - to be completed when known)
+#### Project Management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another Skill (Project management related?)
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I have considerable project management experience that includes both PRINCE2 and Agile methodologies gained from working on a number of significant projects, including:
+- Managing, delivering and overseeing the implementation of a £500k Project Management suite to an international audience spanning 14 regional offices at ARTICLE19
+- Managing the implementation of a Quality Monitoring Programme at Macmillan Cancer Support, that covered 8% of all telemarketing calls and successfully achieved 13% improvement in compliance and 10% improvement to quality for telemarketing.
+- Managed the delivery and conversion of a shipping container filled with medical supplies into a sustainable and government funded medical facility in rural Kenya.
 
 ## Education
 
