@@ -1,10 +1,11 @@
 ## Leon Cross
 
-An accomplished Project Manager with seven years of experience spanning projects involving grass-roots organisations to multi-million pound programmes. An ambitious and versatile individual with established credentials in complex stakeholder management, project delivery and evaluation. Delivers flexible and efficient solutions, and lean processes. 
+Recent graduate of Makers (add more here) - backed by seven years of Project MAnagement experience spanning projects involving grass-roots organisations to multi-million pound programmes. 
+
 
 ## Skills
 
-#### This Skill
+#### This Skill (Coding related - to be completed when known)
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +13,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Another Skill (Coding related - to be completed when known)
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Another Skill (Project management related?)
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (Nov '18 to Feb '19)
+#### Makers Academy (Nov '18 to Feb '19) - To be completed mid-programme
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
