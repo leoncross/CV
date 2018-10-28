@@ -2,8 +2,11 @@
 
 Recent graduate of Makers (add more here) - backed by seven years of Project Management experience spanning both grass-root small scale programmes to overseeing multi-million pound programmes. 
 
+[Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
 
-## Skills
+
+### <a name="skills">Skills</a>
+
 
 #### This Skill (Coding related - to be completed when known)
 
@@ -20,7 +23,7 @@ I have considerable project management experience that includes both PRINCE2 and
 - Managing the implementation of a Quality Monitoring Programme at Macmillan Cancer Support, that covered 8% of all telemarketing calls and successfully achieved 13% improvement in compliance and 10% improvement to quality for telemarketing.
 - Managed the delivery and conversion of a shipping container filled with medical supplies into a sustainable and government funded medical facility in rural Kenya.
 
-## Education
+### ## Education <a name="education">Education</a>
 
 #### Makers Academy (Nov '18 to Feb '19) - To be completed mid-programme
 
