@@ -64,7 +64,7 @@ Over a short term contract, I led the central prevention team which consisted of
 Accountable for the project management of three projects of various size and scope:
 - Multi-stream £10M project – Uniformed Youth Social Action Fund, funded by Cabinet Office
 - £1.6M project – Youth Social Action Journey Fund, funded by Cabinet Office in partnership with NCS Trust 
-- £90K project – Social Inclusion Project, funded through Department of Communities and Local Government 
+- £90K project – Social Inclusion Project, funded through Department of Communities and Local Government  
 Managing contracts (both as a grantee and grantor), reported to funders and key stakeholders, managed complex client relationships and external contractors including evaluators, designers (website/ and evaluation infographics), contractors and social media agencies (large scale promotional campaigns/materials). 
 Significant achievements include the development and implementation of a Project Management Framework and managed a key stakeholder to turn a failing KPI into a 313% overachievement
 
