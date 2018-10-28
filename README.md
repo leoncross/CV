@@ -3,11 +3,9 @@
 Recent graduate of Makers (add more here) - backed by seven years of Project Management experience spanning both grass-root small scale programmes to overseeing multi-million pound programmes. 
 
 [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
-
+____
 
 ### <a name="skills">Skills</a>
-
-
 #### This Skill (Coding related - to be completed when known)
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -23,7 +21,11 @@ I have considerable project management experience that includes both PRINCE2 and
 - Managing the implementation of a Quality Monitoring Programme at Macmillan Cancer Support, that covered 8% of all telemarketing calls and successfully achieved 13% improvement in compliance and 10% improvement to quality for telemarketing.
 - Managed the delivery and conversion of a shipping container filled with medical supplies into a sustainable and government funded medical facility in rural Kenya.
 
-### ## Education <a name="education">Education</a>
+### <a name="Projects">Projects</a>
+
+You can see all of my work at [Github](https://github.com/leoncross).
+
+### <a name="Education">Education</a>
 
 #### Makers Academy (Nov '18 to Feb '19) - To be completed mid-programme
 
@@ -42,7 +44,8 @@ I have considerable project management experience that includes both PRINCE2 and
 #### Other qualifications:
 Prince2 Foundation; Preparing to Teach in the Lifelong Learning Sector (PTLLS); Salesforce Administration for New Admins; Project Quality Assurance; Budgeting; Influencing and Motivating, Assertiveness and Negotiation; Strategic Planning; Managing Change; Risk Management; Project Monitoring Evaluation and Impact Assessment
 
-## Experience
+
+### <a name="Experience">Experience</a>
 
 **ARTICLE 19** (Sep '08 – Jul '11)(Sept ‘17 – Oct ‘18)    
 *Systems and Project Manager* 
@@ -78,3 +81,6 @@ Responsible for designing and establishing a community engagement programme. Dev
 *Project Manager*  
 
 Led the management and coordination of projects undertaken by RSI in Kenya and England. Managed the transportation of a shipping container from the UK to rural parts of Kenya so as to be transformed into a working medical clinic. Partnership working with Kenyan agencies; Kenya Port Authority, customs, health sections and other departments. Secured contracts with the Kenyan Government for Medical equipment and supplies. Worked remotely managing voluntary and paid staff, and in-country coordination 
+
+### <a name="Interests">Interests</a>
+
