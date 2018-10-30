@@ -1,6 +1,6 @@
 ## Leon Cross
 
-Recent graduate of Makers (add more here) - backed by seven years of Project Management experience spanning both grass-root small scale programmes to overseeing multi-million pound programmes. 
+Recent graduate of Makers (add more here) - backed by seven years of Project Management experience spanning both grass-root small scale to overseeing multi-million pound projects. 
 
 [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
 ____
