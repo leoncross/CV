@@ -8,6 +8,8 @@ list processes (DRY / SOLID / XP / TDD / clean code - use process names instead 
 ____
 
 ### <a name="skills">Skills</a>
+
+(use a skill from Diode; show through evidence)
 #### This Skill (Coding related - to be completed when known)
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
