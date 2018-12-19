@@ -2,7 +2,7 @@
 
 Recent graduate of Makers (add more here) - backed by seven years of Project Management experience spanning both grass-root small scale to overseeing multi-million pound projects. 
 
-[Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
+[Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience)
 ____
 
 ### <a name="skills">Skills</a>
@@ -74,6 +74,3 @@ Significant achievements include the development and implementation of a Project
 
 **RS International** (Jul '11 – Jan '13	)   
 *Project Manager*  
-
-### <a name="Interests">Interests</a>
-
