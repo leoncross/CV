@@ -25,6 +25,8 @@ I have considerable project management experience that includes both PRINCE2 and
 
 ### <a name="Projects">Projects</a>
 
+Add a table of 3 / 5 projects
+
 You can see all of my work at [Github](https://github.com/leoncross).
 
 ### <a name="Education">Education</a>
