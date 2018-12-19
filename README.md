@@ -2,7 +2,7 @@
 
 Recent graduate of Makers (add more here) - backed by seven years of Project Management experience spanning both grass-root small scale to overseeing multi-million pound projects. 
 
-list processes (DRY / SOLID / XP etc...)
+list processes (DRY / SOLID / XP / TDD / clean code - use process names instead of knowledge of tech etc...)
 
 [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience)
 ____
