@@ -2,7 +2,10 @@
 
 I am an incredibly passionate and eager to learn junior developer who recently graduated from Makers Academy. Coming from a successful 8 year career in Project Management spanning large scale multi-million pound programs to grass-root start-ups, I am eager to get up to speed, contribute and be a functional part of the team.
 
+
+<p align="center">
 [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Prior Work Experience](#experience)
+</p>
 ____
 
 ### <a name="skills">Skills</a>
