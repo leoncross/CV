@@ -29,7 +29,7 @@ I have considerable project management experience that includes both PRINCE2 and
 | [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurually generated RPG turn-based dungeon crawler, depointed and playable on [Github Pages](https://leoncross.github.io/dungeon-hero/) | JavaScript, Jasmine, jQuery, Travis |
 | [Acebook](https://github.com/leoncross/acebook-firenze)      | Facebook clone, deployed on [Heroku](https://acebook-firenze.herokuapp.com/)      |   Ruby on Rails, RSpec, Capybara, Travis, Heroku  |
 | [Not-so-Instagram](https://github.com/leoncross/instagram-challenge) | An instagram clone developed, deployed on [heroku](https://notsoinstagram.herokuapp.com)   |    Rails, RSpec, Capybara, Travis |
-| [Single Page Notes App](https://github.com/leoncross/notes-spa/ | Vanilla JavaScript SPA app developed using TDD with my own testing framework, deployed on [Heroku](https://notes-spa.herokuapp.com/)        |    Javascript |
+| [Single Page Notes App](https://github.com/leoncross/notes-spa/) | Vanilla JavaScript SPA app developed using TDD with my own testing framework, deployed on [Heroku](https://notes-spa.herokuapp.com/)        |    Javascript |
 
 
 You can see all of my work at [Github](https://github.com/leoncross).
