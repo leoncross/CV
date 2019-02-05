@@ -27,13 +27,13 @@ I have considerable project management experience that includes both PRINCE2 and
 
 | Projcet  | Summary | Technologies |
 | ------------- | ------------- |
-| [Dungeon Hero](https://github.com/leoncross/dungeon-hero) | An procedurually generated RPG turn-based dungeon crawler, depointed and playable [here] (https://leoncross.github.io/dungeon-hero/) | 
+| [Dungeon Hero](https://github.com/leoncross/dungeon-hero) | A procedurually generated RPG turn-based dungeon crawler, depointed and playable [here] (https://leoncross.github.io/dungeon-hero/) | 
 | Content Cell  | Content Cell  |
 
 
-| Tables        | Are           | Cool  |
+| Project        | Summary           | Technologies  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurually generated RPG turn-based dungeon crawler, depointed and playable [here] (https://leoncross.github.io/dungeon-hero/) | JS |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
