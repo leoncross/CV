@@ -1,31 +1,19 @@
 ## Leon Cross 
 
-I am an incredibly passionate and eager to learn junior full-stack developer who recently graduated from Makers Academy. Coming from a successful 8 year career in Project Management spanning large scale multi-million pound programs to grass-root start-ups, I am eager to get up to speed, contribute and be a functional part of the team.
+I am an incredibly passionate and eager to learn junior developer who recently graduated from Makers Academy. Coming from a successful 8 year career in Project Management spanning large scale multi-million pound programs to grass-root start-ups, I am eager to get up to speed, contribute and be a functional part of the team.
 
 [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience)
 ____
 
 ### <a name="skills">Skills</a>
 
-#### Programming Processes
+#### Programming
 
-At Makers, I was taught to code against a set of industry best-practices. This included following a TTD process, writing code that is DRY, all the while aligning to SOLID and OOD principles. Furthermore, working within a team structure that follows the XP values, and the agile product development cycle.
+During the 12 weeks at Makers, I was taught to code against a set of industry best-practices. This included following a strict TTD process, writing code that is DRY, all the while aligning to SOLID and OOD principles. Furthermore, working within a team structure that follows the XP values, and the agile product development cycle.
 
 #### Quick learner
 
-Makers Academy left me with a great knowledge of Ruby and JavaScript, but more than that - the ability to teach myself new technologies quickly. After spending two months studying Ruby, I mastered JavaScript to a similar level in five days. Having now graduated from Makers, I am stretching my ability to learn new languages, and to understand the oddities of each - I am currently redoing the course material in Golang, and working on a new Python project
-
-#### Teamwork
-
-Both throughout my PM career, as well as my coding career to date, the importance of teamwork has 
-
-Throughout my PM career, I have led and been part of various teams. I pride myself on my ability to work well as part of a team. 
-
-collaboration
-
-Thoughout makers, working on various projects and following the agile project delivery cycle
-
-Pair programming
+Makers Academy left me with a great knowledge of Ruby and JavaScript, but much more than that - the ability to teach myself new technologies quickly. After spending two months studying Ruby, I mastered JavaScript to a similar level in five days. Having now graduated from Makers, I am stretching my ability to learn new languages, and to understand the oddities of each - I am currently redoing the course material in Golang, and working on a new Python project
 
 #### Project Management
 I have considerable project management experience that includes both PRINCE2 and Agile methodologies gained from working on a number, including:
@@ -35,6 +23,13 @@ I have considerable project management experience that includes both PRINCE2 and
 
 
 ### <a name="Projects">Projects</a>
+
+
+| Projcet  | Summary | Technologies |
+| ------------- | ------------- |
+| [Dungeon Hero](https://github.com/leoncross/dungeon-hero) | An procedurually generated RPG turn-based dungeon crawler, depointed and playable [here] (https://leoncross.github.io/dungeon-hero/) | 
+| Content Cell  | Content Cell  |
+
 
 Add a table of 3 / 5 projects
 
@@ -85,3 +80,6 @@ Significant achievements include the development and implementation of a Project
 
 **RS International** (Jul '11 – Jan '13	)   
 *Project Manager*  
+
+
+
