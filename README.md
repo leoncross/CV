@@ -31,6 +31,13 @@ I have considerable project management experience that includes both PRINCE2 and
 | Content Cell  | Content Cell  |
 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 Add a table of 3 / 5 projects
 
 You can see all of my work at [Github](https://github.com/leoncross).
