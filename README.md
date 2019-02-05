@@ -24,23 +24,16 @@ I have considerable project management experience that includes both PRINCE2 and
 
 ### <a name="Projects">Projects</a>
 
-
-| Projcet  | Summary | Technologies |
-| ------------- | ------------- |
-| [Dungeon Hero](https://github.com/leoncross/dungeon-hero) | A procedurually generated RPG turn-based dungeon crawler, depointed and playable [here] (https://leoncross.github.io/dungeon-hero/) | 
-| Content Cell  | Content Cell  |
-
-
 | Project        | Summary           | Technologies  |
 | ------------- |-------------| -------------|
-| [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurually generated RPG turn-based dungeon crawler, depointed and playable [here](https://leoncross.github.io/dungeon-hero/) | JS |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurually generated RPG turn-based dungeon crawler, depointed and playable on [Github Pages](https://leoncross.github.io/dungeon-hero/) | JavaScript, Jasmine, jQuery, Travis |
+| [Acebook](https://github.com/leoncross/acebook-firenze)      | Facebook clone, deployed on [Heroku](https://acebook-firenze.herokuapp.com/)      |   Ruby on Rails, RSpec, Capybara, Travis, Heroku  |
+| [Not-so-Instagram](https://github.com/leoncross/instagram-challenge) | An instagram clone developed, deployed on [heroku](https://notsoinstagram.herokuapp.com)   |    Rails, RSpec, Capybara, Travis |
+| [Single Page Notes App](https://github.com/leoncross/notes-spa/ | Vanilla JavaScript SPA app developed using TDD with my own testing framework, deployed on [Heroku](https://notes-spa.herokuapp.com/)        |    Javascript |
 
-
-Add a table of 3 / 5 projects
 
 You can see all of my work at [Github](https://github.com/leoncross).
+
 
 ### <a name="Education">Education</a>
 
