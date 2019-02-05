@@ -32,9 +32,6 @@ I have considerable project management experience that includes both PRINCE2 and
 | [Single Page Notes App](https://github.com/leoncross/notes-spa/) | Vanilla JavaScript SPA app developed using TDD with my own testing framework, deployed on [Heroku](https://notes-spa.herokuapp.com/)        |    Javascript |
 
 
-You can see all of my work at [Github](https://github.com/leoncross).
-
-
 ### <a name="Education">Education</a>
 
 #### Makers Academy (Nov '18 to Feb '19)
@@ -52,6 +49,7 @@ Prince2 Foundation; Preparing to Teach in the Lifelong Learning Sector (PTLLS); 
 
 
 ### <a name="Experience">Experience</a>
+
 
 **ARTICLE 19** (Sep '08 – Jul '11)(Sept ‘17 – Oct ‘18)    
 *Systems and Project Manager*  
