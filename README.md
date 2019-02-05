@@ -1,30 +1,38 @@
 ## Leon Cross 
-Recent graduate of Makers (add more here) - backed by seven years of Project Management experience spanning both grass-root small scale to overseeing multi-million pound projects. 
 
-get super passion out
-
-list processes (DRY / SOLID / XP / TDD / clean code - use process names instead of knowledge of tech etc...)
+I am an incredibly passionate and eager to learn junior full-stack developer who recently graduated from Makers Academy. Coming from a successful 8 year career in Project Management spanning large scale multi-million pound programs to grass-root start-ups, I am eager to get up to speed, contribute and be a functional part of the team.
 
 [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience)
 ____
 
 ### <a name="skills">Skills</a>
 
-(use a skill from Diode; show through evidence)
-#### This Skill (Coding related - to be completed when known)
+#### Programming Processes
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+At Makers, I was taught to code against a set of industry best-practices. This included following a TTD process, writing code that is DRY, all the while aligning to SOLID and OOD principles. Furthermore, working within a team structure that follows the XP values, and the agile product development cycle.
 
-- Experience
-- Achievements
-- Evidence
+#### Quick learner
+
+Makers Academy left me with a great knowledge of Ruby and JavaScript, but more than that - the ability to teach myself new technologies quickly. After spending two months studying Ruby, I mastered JavaScript to a similar level in five days. Having now graduated from Makers, I am stretching my ability to learn new languages, and to understand the oddities of each - I am currently redoing the course material in Golang, and working on a new Python project
+
+#### Teamwork
+
+Both throughout my PM career, as well as my coding career to date, the importance of teamwork has 
+
+Throughout my PM career, I have led and been part of various teams. I pride myself on my ability to work well as part of a team. 
+
+collaboration
+
+Thoughout makers, working on various projects and following the agile project delivery cycle
+
+Pair programming
 
 #### Project Management
-
-I have considerable project management experience that includes both PRINCE2 and Agile methodologies gained from working on a number of significant projects, including:
-- Managing, delivering and overseeing the implementation of a £500k Project Management suite to an international audience spanning 14 regional offices at ARTICLE19
-- Managing the implementation of a Quality Monitoring Programme at Macmillan Cancer Support, that covered 8% of all telemarketing calls and successfully achieved 13% improvement in compliance and 10% improvement to quality for telemarketing.
+I have considerable project management experience that includes both PRINCE2 and Agile methodologies gained from working on a number, including:
+- Managing a large scale change program in Macmillan Cancer Supports fundraising function. Reporting straight to board level, this saw significant success, and led to a 13% improvement in compliance and 10% to quality across a £125 Million fundraising portfolio
+- Designing, delivering and overseeing the implementation of a Project Management suite to an international audience spanning 14 regional offices at ARTICLE19
 - Managed the delivery and conversion of a shipping container filled with medical supplies into a sustainable and government funded medical facility in rural Kenya.
+
 
 ### <a name="Projects">Projects</a>
 
@@ -34,22 +42,18 @@ You can see all of my work at [Github](https://github.com/leoncross).
 
 ### <a name="Education">Education</a>
 
-#### Makers Academy (Nov '18 to Feb '19) - To be completed mid-programme
+#### Makers Academy (Nov '18 to Feb '19)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
+Makers Academy is an intensive 12 weeks development bootcamp. With them, my curiosity and passion for code transformed me in a independent learner, problem-solver, a self-reliant junior developer with skills in:
+OOP, TDD, BDD, MVC
+Agile / XP
+Ruby, Rails, Sinatra, Javascript
+Rspec, Jasmine, Capybara
 #### University of Nottingham (Sep '08 – Jul '11)
 - BA (Hons) Sociology - 2:1
 
 #### Other qualifications:
-Prince2 Foundation; Preparing to Teach in the Lifelong Learning Sector (PTLLS); Salesforce Administration for New Admins; Project Quality Assurance; Budgeting; Influencing and Motivating, Assertiveness and Negotiation; Strategic Planning; Managing Change; Risk Management; Project Monitoring Evaluation and Impact Assessment
+Prince2 Foundation; Preparing to Teach in the Lifelong Learning Sector (PTLLS); Salesforce Admin; Project Quality Assurance; Budgeting; Influencing and Motivating, Assertiveness and Negotiation; Strategic Planning; Managing Change; Risk Management; Project Monitoring Evaluation and Impact Assessment
 
 
 ### <a name="Experience">Experience</a>
