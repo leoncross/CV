@@ -32,8 +32,8 @@ I have considerable project management experience that includes both PRINCE2 and
 
 
 | Project        | Summary           | Technologies  |
-| ------------- |:-------------:| -----:|
-| [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurually generated RPG turn-based dungeon crawler, depointed and playable [here] (https://leoncross.github.io/dungeon-hero/) | JS |
+| ------------- |-------------| -------------|
+| [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurually generated RPG turn-based dungeon crawler, depointed and playable [here](https://leoncross.github.io/dungeon-hero/) | JS |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
