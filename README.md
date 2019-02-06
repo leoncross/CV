@@ -1,6 +1,6 @@
 ## Leon Cross 
 
-I am an incredibly passionate and eager to learn junior developer who recently graduated from Makers Academy. Coming from a successful 8 year career in Project Management spanning large scale multi-million pound programs to grass-root start-ups, I am eager to get up to speed, contribute and be a functional part of the team.
+Passionate and eager to learn junior developer who recently graduated from Makers Academy. Coming from a successful 8 year career in Project Management spanning large scale multi-million pound programs to grass-root start-ups, I am eager to get up to speed, contribute and be a functional part of the team.
 
 [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Prior Work Experience](#experience)
 ____
@@ -26,7 +26,7 @@ I have considerable project management experience that includes both PRINCE2 and
 
 | Project        | Summary           | Technologies  |
 | ------------- |-------------| -------------|
-| [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurually generated RPG turn-based dungeon crawler, depointed and playable on [Github Pages](https://leoncross.github.io/dungeon-hero/) | JavaScript, Jasmine, jQuery, Travis |
+| [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurally generated RPG turn-based dungeon crawler, depointed and playable on [Github Pages](https://leoncross.github.io/dungeon-hero/) | JavaScript, Jasmine, jQuery, Travis |
 | [Acebook](https://github.com/leoncross/acebook-firenze)      | Facebook clone, deployed on [Heroku](https://acebook-firenze.herokuapp.com/)      |   Ruby on Rails, RSpec, Capybara, Travis, Heroku  |
 | [Not-so-Instagram](https://github.com/leoncross/instagram-challenge) | An instagram clone developed, deployed on [heroku](https://notsoinstagram.herokuapp.com)   |    Rails, RSpec, Capybara, Travis |
 | [Single Page Notes App](https://github.com/leoncross/notes-spa/) | Vanilla JavaScript SPA app developed using TDD with my own testing framework, deployed on [Heroku](https://notes-spa.herokuapp.com/)        |    Javascript |
