@@ -27,7 +27,8 @@ I have considerable project management experience that includes both PRINCE2 and
 | Project        | Summary           | Technologies  |
 | ------------- |-------------| -------------|
 | [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurally generated RPG turn-based dungeon crawler, deployed and playable on [Github Pages](https://leoncross.github.io/dungeon-hero/) | JavaScript, Jasmine, jQuery, Travis |
-| [Acebook](https://github.com/leoncross/acebook-firenze)      | Facebook clone, deployed on [Heroku](https://acebook-firenze.herokuapp.com/)      |   Ruby on Rails, RSpec, Capybara, Travis, Heroku  |
+| [Acebook](https://github.com/leoncross/acebook-firenze)      | 
+A Facebook clone with features including full user authentication; adding, removing, and updating posts; profile pictures; likes and comments. Deployed on [Heroku](https://acebook-firenze.herokuapp.com/)      |   Ruby on Rails, RSpec, Capybara, Travis, Heroku  |
 | [Not-so-Instagram](https://github.com/leoncross/instagram-challenge) | An instagram clone deployed on [Heroku](https://notsoinstagram.herokuapp.com)   |    Rails, RSpec, Capybara, Travis |
 | [Will it rain?](https://github.com/leoncross/will-it-rain/) | A front end weather checker that communicates with my API Handler with a strong focus on handling sensitive data securely (API keys). Deployed and usable on [Github Pages](https://leoncross.github.io/will-it-rain//)        |    Javascript, jQuery, Jasmine |
 | [API Handler](https://github.com/leoncross/api-handler/) | A node express app that stores all of my API keys in environment variables on heroku, and depending on the path and params provided, will access keys, collect data, and display them. Accessible on [Heroku](https://api-handler.herokuapp.com/)        |    Javascript, Node, Express |
