@@ -29,8 +29,8 @@ I have considerable project management experience that includes both PRINCE2 and
 | [Dungeon Hero](https://github.com/leoncross/dungeon-hero)      | A procedurally generated RPG turn-based dungeon crawler, deployed and playable on [Github Pages](https://leoncross.github.io/dungeon-hero/) | JavaScript, Jasmine, jQuery, Travis |
 | [Acebook](https://github.com/leoncross/acebook-firenze)      | Facebook clone, deployed on [Heroku](https://acebook-firenze.herokuapp.com/)      |   Ruby on Rails, RSpec, Capybara, Travis, Heroku  |
 | [Not-so-Instagram](https://github.com/leoncross/instagram-challenge) | An instagram clone deployed on [heroku](https://notsoinstagram.herokuapp.com)   |    Rails, RSpec, Capybara, Travis |
-| [Single Page Notes App](https://github.com/leoncross/notes-spa/) | Fully encapsulated pure JavaScript SPA app developed using TDD with my own testing framework, deployed on [Heroku](https://notes-spa.herokuapp.com/)        |    Javascript |
-
+| [Will it rain?](https://github.com/leoncross/will-it-rain/) | A front end weather checker that communicates with my API Handler with sole focus on data securit. Deployed and usable on [github](https://leoncross.github.io/will-it-rain//)        |    Javascript, jQuery, Jasmine |
+| [API Handler](https://github.com/leoncross/api-handler/) | A node.js express app that stores all of my API keys in environment variables on heroku, and depending on the path and params provided, will access keys, collect data, and display them. Accessible on [heroku](https://api-handler.herokuapp.com/)        |    Javascript, Node, Express |
 
 ### <a name="Education">Education</a>
 
