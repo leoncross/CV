@@ -16,9 +16,10 @@ SMS Microservice: Java, Vert.x, MiniShift, OpenShift, Kubernetes, Docker
 **Nov ‘18 – Feb ‘19 	Makers Academy, Student**  
 	Having spent considerable time day dreaming about becoming a software developer, I left my project manager hat and joined a coding bootcamp to improve my skills, better my processes and jump start a new career. Makers Academy is an intensive 16 weeks software development bootcamp, with a focus on OOP, TDD, BDD, MVC Agile / XP Ruby, Rails, Sinatra, JavaScript, Node.Js, Rspec, Jasmine, Capybara.
   
-**Sept ‘17 – Oct ‘18 	ARTICLE 19, Systems and Project Manager**
+**Sept ‘17 – Oct ‘18 	ARTICLE 19, Systems and Project Manager**  
 	Led the development, delivery and organisational rollout of ARTICLE 19's Impact Monitoring System (AIMS), a suite of performance management software which included Project Management, Strategy Management and People and Performance Management. This included the implementation of all systems and global rollout across 14 regional offices.
-Nov ’16 – Sept ‘17	Macmillan Cancer Support, Quality Monitoring Project Manager
+	
+**Nov ’16 – Sept ‘17	Macmillan Cancer Support, Quality Monitoring Project Manager**  
 	Designed and implemented Macmillan’s Quality Assurance Framework and rolled out across the organisation, including designing projects to imbed the framework across numerous fundraising channels, drive forward the quality assurance agenda and transition these metrics to supplier contract KPIs and SLAs. 
   
 **Jun ’16 – Oct ‘16	Diabetes UK, Project Manager**  
