@@ -10,7 +10,7 @@ Former Project Manager turned Software Developer with commercial experience in J
 	Responsibilities include contributing to technical design, implementing code with a TDD approach, regular pair-programming, functional testing, and peer code reviewing. 
 
 Tech Stack:
-Restful API: Node.JS, Express, Casandra, Jenkins CI
+Restful API: Node.JS, Express, Casandra, Jenkins CI  
 SMS Microservice: Java, Vert.x, MiniShift, OpenShift, Kubernetes, Docker
 
 **Nov ‘18 – Feb ‘19 	Makers Academy, Student**  
